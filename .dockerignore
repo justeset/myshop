@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+*.env
+*.egg
+*.egg-info/
+
+# Django
+media/
+staticfiles/
+
+# Virtualenv
+venv/
+ENV/
+env/
+.venv/
+
+# Docker
+docker-compose.override.yml
+
+# IDE и системные файлы
+.vscode/
+.idea/
+.DS_Store
+
+# Git
+.git
